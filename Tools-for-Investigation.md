@@ -4,3 +4,4 @@
 | Autopsy 4.19.3 |
 | DB Browser for SQLite 3.12.2 | 
 | PEStudio 9.51.0.0 |
+| Malwarebytes Premium 4.5.26 |
