@@ -1,4 +1,4 @@
-| Program Name | Location | MD5 Hash |
+| Installed Program Name | Location | MD5 Hash |
 | - | - | - |
 | DriverUpdate *5.8.2* | %ProgramFiles%\DriverUpdate\DriverUpdate.exe | 7555028e06cd2af95c153ba514bee240 |
 | Google Chrome *74.0.3729.108* | %ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe | 657e3b19e35deef38a66eee7d823ccd2 |
