@@ -2,5 +2,5 @@
 | - | - |
 | DriverUpdate *5.8.2* | %ProgramFiles%\DriverUpdate\DriverUpdate.exe |
 | Google Chrome *74.0.3729.108* | %ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe |
-| My Faster PC *7.4* | %SystemDrive%\\$Recycle.Bin\My Faster PC.lnk |
+| My Faster PC *7.4* | %ProgramFiles(x86)%\ConsumerSoft\My Faster PC\MyFasterPC.exe |
 | SlimCleaner Plus *4.2.0.60* | %ProgramFiles%\SlimCleaner Plus\SimCleanerPlus.exe |
