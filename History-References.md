@@ -1,4 +1,5 @@
-## History (SQLite file from Google Chrome)
+## History (Google Chrome SQLite File)
+
 ### `urls` (Search history url paths) [Title]
 * ID 13 (`how to clean up pc`)
 
