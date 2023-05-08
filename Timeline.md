@@ -1,5 +1,6 @@
 | Date Added | Event Time (EST) | User | Activity |
 |:-:|:-:|:-:|-|
+| 30 April 2019 | 12:41:07 | Final Project | Google searched `how to cleanup my pc` on Google Chrome |
 | 30 April 2019 | 12:43:28 | Final Project | `clean_master_1_1.exe` initated download from Google Chrome |
 | 30 April 2019 | 12:43:40 | Final Project | `clean_master_1_1.exe` sucessfully downloaded to workstation |
 | 30 April 2019 | 12:44:01 | Final Project | `Install My Faster PC.exe` initated download from Google Chrome |
