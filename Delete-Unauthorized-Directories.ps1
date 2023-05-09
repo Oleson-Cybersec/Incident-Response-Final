@@ -1,11 +1,11 @@
-#REQUIRES - PowerShell Version 2.0
+#REQUIRES - PowerShell Version 2.0 (Admin)
 
 <#
 .SYNOPSIS
     This script can **ONLY BE RAN** after deleteing 3 running details that include: 
     "DriverUpdate.exe", "SlimWare.Services.exe", & "SlimWare.Session.exe"
 .DESCRIPTION
-    This script will delete force delete all directories and Child-Item's below the directory.
+    This script will force delete all directories and Child-Item's below the directory using Powershell (Admin). Must be run as Administrator.
 .NOTES
     File Name      : Delete-Unauthorized-Directories.ps1
     Author         : Jordan Oleson
