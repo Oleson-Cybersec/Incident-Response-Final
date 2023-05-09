@@ -11,6 +11,7 @@
     Author         : Jordan Oleson
     Prerequisite   : PowerShell V2 over Vista and upper.
 #>
+
 cmd /c echo a | powershell Stop-Process -Name "DriverUpdate.exe"
 cmd /c echo a | powershell Stop-Process -Name "SlimWare.Services.exe"
 cmd /c echo a | powershell Stop-Process -Name "SlimWare.Session.exe"
