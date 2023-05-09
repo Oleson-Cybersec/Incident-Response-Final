@@ -40,6 +40,13 @@ Clean Master for PC never installed to workstation.
 
 Unable to remove directory until services turmed off. Tried 3 with driver update, and two slim services, need to idetnify which was causing issue.
 * Must kill 3 running details to delete directory:
-  * DriverUpdate.exe
-  * SlimWare.Services.exe
-  * SlimWare.Session.exe
+	* DriverUpdate.exe
+	* SlimWare.Services.exe
+	* SlimWare.Session.exe
+
+### Installing DriverUpdate creates the following directories with processes inside:
+* `C:\Program Files\DriverUpdate`
+	* `DriverUpdate.exe`
+* `C:\Program Files\SlimWare Utilities`
+	* `SlimWare.Services.exe`
+	* `SlimWare.Session.exe`
