@@ -11,9 +11,9 @@
     Author         : Jordan Oleson
     Prerequisite   : PowerShell V2 over Vista and upper.
 #>
-Stop-Process -Name "DriverUpdate.exe"
-Stop-Process -Name "SlimWare.Services.exe"
-Stop-Process -Name "SlimWare.Session.exe"
+cmd /c echo a | powershell Stop-Process -Name "DriverUpdate.exe"
+cmd /c echo a | powershell Stop-Process -Name "SlimWare.Services.exe"
+cmd /c echo a | powershell Stop-Process -Name "SlimWare.Session.exe"
 Remove-Item -LiteralPath "C:\Program Files\DriverUpdate" -Force -Recurse
 Remove-Item -LiteralPath "C:\Program Files\SlimCleaner Plus" -Force -Recurse
 Remove-Item -LiteralPath "C:\Program Files\SlimWare Utilities" -Force -Recurse
