@@ -10,3 +10,7 @@ On Thursday, April 20, 2023, our incident response team was tasked with conducti
 * Hostname = DESKTOP-EONBTIO
 * Program Name = Windows 10 Education
 * Proccessor Arch = AMD64
+
+
+* Audit 4624: successful login:   30 Apr 2019 12:02:25 EST --> SID (1000, not 1001 [never is 1001]). First SecID of Desktop...\Final Project
+* Chrome first launched at 12:38:18 EST per Prefetch properties on `Chrome.exe-D999B1BA.pf`
