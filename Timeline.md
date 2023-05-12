@@ -51,3 +51,8 @@ Unable to remove directory until services turmed off. Tried 3 with driver update
 * `C:\Program Files\SlimWare Utilities`
 	* `SlimWare.Services.exe`
 	* `SlimWare.Session.exe`
+
+
+### Installing SlimCleaner Plus creates the following directories:
+* `C:\Program Files\SlimCleaner Plus`
+* `C:\Program Files\SlimServices`
