@@ -1,4 +1,4 @@
-| Date Added | Event Time (EDT) | User | Activity | Justification |
+| Date Added | Time (EDT) | User | Activity | Justification |
 |:-:|:-:|:-:|-|:-:|
 | 30 Apr 2019 | 12:41:07 | Final Project | Google searched `how to cleanup my pc` on Google Chrome | Google Chrome: History |
 | 30 Apr 2019 | 12:43:28 | Final Project | `clean_master_1_1.exe` initated download from Google Chrome | Google Chrome: History |
@@ -11,14 +11,14 @@
 | 30 Apr 2019 | 12:49:29 | Final Project | `DriverUpdate-Setup.exe` sucessfully downloaded to workstation | Google Chrome: History |
 | 30 Apr 2019 | 12:49:35 | Final Project | `DriverUpdate-Setup.exe` first launch time on workstation | Prefetch File |
 | 30 Apr 2019 | 12:49:46 | Final Project | **DriverUpdate** directory created in `C:\Program Files\` | MAC Times |
-| 30 April 2019 | 12:49:46 | Final Project | `DriverUpdate.exe` installation completed onto workstation | MAC Times |
-| 30 April 2019 | 14:49:46 | Final Project | `DriverUpdate.exe` last launch time on workstation | MAC Times |
+| 30 Apr 2019 | 12:49:46 | Final Project | `DriverUpdate.exe` installation completed onto workstation | MAC Times |
+| 30 Apr 2019 | 14:49:46 | Final Project | `DriverUpdate.exe` last launch time on workstation | MAC Times |
 | 30 Apr 2019 | 12:49:46 | Final Project | **SlimWare Utilities** directory created in `C:\Program Files\` | MAC Times |
-| 30 April 2019 | 12:49:46 | Final Project | `SlimWare.Session.exe` installation completed onto workstation | MAC Times |
+| 30 Apr 2019 | 12:49:46 | Final Project | `SlimWare.Session.exe` installation completed onto workstation | MAC Times |
+| 30 Apr 2019 | 12:49:46 | Final Project | `SlimWare.Service.exe` installation completed onto workstation | MAC Times |
 | 30 Apr 2019 | 12:50:11 | Final Project | **SlimCleaner Plus** directory created in `C:\Program Files\` | MAC Times |
 | 30 Apr 2019 | 12:50:13 | Final Project | **SlimServices** directory created in `C:\Program Files\` | MAC Times |
-| 30 April 2019 | 12:50:13 | Final Project | `SlimServices.exe` installation completed onto workstation | MAC Times |
-| 30 April 2019 | 12:58:08 | Final Project | `SlimServices.exe` last launch time on workstation | MAC Times |
+
 
 
 
@@ -40,7 +40,7 @@ Unable to remove directory until services turmed off. Tried 3 with driver update
 
 ### Installing DriverUpdate creates the following directories with processes inside:
 * `C:\Program Files\DriverUpdate`
-	* `DriverUpdate.exe`
+	* `DriverUpdate.exe` 5.8.2
 * `C:\Program Files\SlimWare Utilities`
 	* `SlimWare.Services.exe`
 	* `SlimWare.Session.exe`
@@ -48,6 +48,11 @@ Unable to remove directory until services turmed off. Tried 3 with driver update
 
 ### Installing SlimCleaner Plus creates the following directories:
 * `C:\Program Files\SlimCleaner Plus`
-	* SlimCleanerPlus.exe 
+	* SlimCleanerPlus.exe 4.2.0.60
 * `C:\Program Files\SlimServices`
 	* SlimServices.exe
+
+### Installing My Faster PC creates the following directories:
+* `C:\Program Files\SlimCleaner Plus`
+	* My Faster PC 7.4
+
