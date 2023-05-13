@@ -1,4 +1,4 @@
-| Date Added | Time (EDT) | User | Activity | Justification |
+| Date Added | Event Time (EDT) | User | Activity | Justification |
 |:-:|:-:|:-:|-|:-:|
 | 30 Apr 2019 | 12:41:07 | Final Project | Google searched `how to cleanup my pc` on Google Chrome | Google Chrome: History |
 | 30 Apr 2019 | 12:43:28 | Final Project | `clean_master_1_1.exe` initated download from Google Chrome | Google Chrome: History |
@@ -15,15 +15,9 @@
 | 30 Apr 2019 | 14:49:46 | Final Project | `DriverUpdate.exe` last launch time on workstation | MAC Times |
 | 30 Apr 2019 | 12:49:46 | Final Project | **SlimWare Utilities** directory created in `C:\Program Files\` | MAC Times |
 | 30 Apr 2019 | 12:49:46 | Final Project | `SlimWare.Session.exe` installation completed onto workstation | MAC Times |
-| 30 Apr 2019 | 12:49:46 | Final Project | `SlimWare.Service.exe` installation completed onto workstation | MAC Times |
+| 30 Apr 2019 | 12:49:46 | Final Project | `SlimWare.Services.exe` installation completed onto workstation | MAC Times |
 | 30 Apr 2019 | 12:50:11 | Final Project | **SlimCleaner Plus** directory created in `C:\Program Files\` | MAC Times |
-| 30 Apr 2019 | 12:50:13 | Final Project | **SlimServices** directory created in `C:\Program Files\` | MAC Times |
-
-
-
-
-| 30 April 2019 | 12:49:46 | Final Project | `SlimWare.Session.exe` installation completed onto workstation | File MAC Times |
-| 30 April 2019 | 14:37:43 | Final Project | `SlimWare.Session.exe` last access time on workstation | File MAC Times |
+| 30 Apr 2019 | 12:50:12 | Final Project | **SlimServices** directory created in `C:\Program Files\` | MAC Times |
 
 
 
