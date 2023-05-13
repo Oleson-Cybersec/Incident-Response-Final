@@ -18,6 +18,8 @@
 | 30 Apr 2019 | 12:49:46 | Final Project | `SlimWare.Services.exe` installation completed onto workstation | MAC Times |
 | 30 Apr 2019 | 12:50:11 | Final Project | **SlimCleaner Plus** directory created in `C:\Program Files\` | MAC Times |
 | 30 Apr 2019 | 12:50:12 | Final Project | **SlimServices** directory created in `C:\Program Files\` | MAC Times |
+| 30 Apr 2019 | 12:50:15 | Final Project | `SlimCleaner Plus.exe` installation completed onto workstation | Event Viewer |
+
 
 
 
